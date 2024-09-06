@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub.
+# Samurai PNG
+This file includes a PNG of a Samurai.
